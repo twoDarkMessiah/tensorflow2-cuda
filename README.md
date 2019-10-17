@@ -36,7 +36,7 @@ Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 935
 Configure Remote Python Interpreter to 127.0.0.1:8022.
 
 
-This Docker Container is made to offer a workaround, to nvidia cuda problems with tensorflow2.
+This Docker container is made to offer a workaround, to nvidia cuda problems with tensorflow2.
 ```
 Failed to load the native TensorFlow runtime
 ImportError: /usr/lib/libcusolver.so.10.0: version `libcusolver.so.10.0' not found 
